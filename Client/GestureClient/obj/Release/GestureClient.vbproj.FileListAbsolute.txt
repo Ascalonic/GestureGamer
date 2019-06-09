@@ -1,0 +1,15 @@
+c:\users\ascalonic\documents\visual studio 2017\Projects\GestureClient\GestureClient\bin\Release\GestureClient.exe.config
+c:\users\ascalonic\documents\visual studio 2017\Projects\GestureClient\GestureClient\bin\Release\GestureClient.exe
+c:\users\ascalonic\documents\visual studio 2017\Projects\GestureClient\GestureClient\bin\Release\GestureClient.pdb
+c:\users\ascalonic\documents\visual studio 2017\Projects\GestureClient\GestureClient\bin\Release\GestureClient.xml
+c:\users\ascalonic\documents\visual studio 2017\Projects\GestureClient\GestureClient\bin\Release\OpenTK.dll
+c:\users\ascalonic\documents\visual studio 2017\Projects\GestureClient\GestureClient\bin\Release\OpenTK.GLControl.dll
+c:\users\ascalonic\documents\visual studio 2017\Projects\GestureClient\GestureClient\bin\Release\OpenTK.xml
+c:\users\ascalonic\documents\visual studio 2017\Projects\GestureClient\GestureClient\bin\Release\OpenTK.GLControl.xml
+c:\users\ascalonic\documents\visual studio 2017\Projects\GestureClient\GestureClient\obj\Release\GestureClient.vbprojResolveAssemblyReference.cache
+c:\users\ascalonic\documents\visual studio 2017\Projects\GestureClient\GestureClient\obj\Release\GestureClient.frmMain.resources
+c:\users\ascalonic\documents\visual studio 2017\Projects\GestureClient\GestureClient\obj\Release\GestureClient.Resources.resources
+c:\users\ascalonic\documents\visual studio 2017\Projects\GestureClient\GestureClient\obj\Release\GestureClient.vbproj.GenerateResource.Cache
+c:\users\ascalonic\documents\visual studio 2017\Projects\GestureClient\GestureClient\obj\Release\GestureClient.exe
+c:\users\ascalonic\documents\visual studio 2017\Projects\GestureClient\GestureClient\obj\Release\GestureClient.xml
+c:\users\ascalonic\documents\visual studio 2017\Projects\GestureClient\GestureClient\obj\Release\GestureClient.pdb
