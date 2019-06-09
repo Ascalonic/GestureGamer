@@ -8,3 +8,6 @@ other applications to use. In this case, we build a basic 3D plane than moves (r
 
 The server was written in Python using OpenCV and the client was written in VB (OpenTK - OpenGL).
 
+![Screenshot from demo](/preview/motion_mouse.PNG?raw=true "Preview")
+
+The demo video is available [here](https://www.youtube.com/watch?v=rzvwuhKkAas)
